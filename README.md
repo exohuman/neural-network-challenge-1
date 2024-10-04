@@ -1,2 +1,5 @@
 # neural-network-challenge-1
-create a model to predict student loan repayment.
+Create a model to predict student loan repayment.
+
+The code is located in student_loans_with_deep_learning.ipynb.
+
